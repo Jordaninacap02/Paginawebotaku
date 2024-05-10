@@ -1,0 +1,26 @@
+body{
+    background-image: url(Image/pixai-1655847210173161038-Cyberpunk\ Slums.png);
+}
+
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.titulo{
+    color: rgb(106, 255, 0);
+}
+
+.titulo1{
+    color: rgb(106, 255, 0);
+}
+
+.formulario{
+    color: rgb(106, 255, 0);
+}
+
+#Comentario{
+    resize: none;
+    
+}
